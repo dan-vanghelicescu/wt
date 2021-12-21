@@ -8,4 +8,6 @@
 6. adjust settings.json for path
 
 7. create one shortcut with this commmand (and set it to run as admin):
-C:\Windows\System32\cmd.exe /c start /b wt.exe -p "PowerShell" `; split-pane -p "cmd" `; split-pane -p "Debian"
+```
+ C:\Windows\System32\cmd.exe /c start /b wt.exe -p "PowerShell" `; split-pane -p "cmd" `; split-pane -p "Debian"
+ ```
