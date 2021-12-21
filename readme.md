@@ -3,9 +3,9 @@
 3. install debian from store
 4. install ohmyposh - see https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal
 
-5. adjust Microsoft.PowerShell_profile.ps1 in C:\Users\%username%\Documents\PowerShell
+5. adjust $PROFILE file
 
-6. adjust settings.json for path
+6. adjust settings.json
 
 7. create one shortcut with this commmand (and set it to run as admin):
 ```
